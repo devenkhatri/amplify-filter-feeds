@@ -1,6 +1,10 @@
-#amplify-filter-feeds
+# amplify-filter-feeds
 
-## Using React + Vite
+## Demo URLs
+- Amplify Version = https://main.d32xkqebraqh98.amplifyapp.com/ 
+- S3 Version = http://amplify-filter-feeds-live.s3-website-us-east-1.amazonaws.com/
+
+## Using React + Vite + Amplify UI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
