@@ -1,8 +1,8 @@
 # amplify-filter-feeds
 
 ## Demo URLs
-- Amplify Version = https://main.d32xkqebraqh98.amplifyapp.com/ 
-- S3 Version = http://amplify-filter-feeds-live.s3-website-us-east-1.amazonaws.com/
+- Amplify Version = https://main.d32xkqebraqh98.amplifyapp.com/ (Uses Amplify, Amplify UI)
+- S3 Version = http://amplify-filter-feeds-live.s3-website-us-east-1.amazonaws.com/ (Uses Amplify UI, S3, CodePipeline, CodeBuild, CodeStar)
 
 ## Using React + Vite + Amplify UI
 
